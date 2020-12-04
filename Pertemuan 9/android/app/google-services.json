@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996910041863",
+    "project_id": "resbookapp",
+    "storage_bucket": "resbookapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996910041863:android:dc2bf6aef49ecb090213a2",
+        "android_client_info": {
+          "package_name": "com.resbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996910041863-2s2gv5ugdoorhib27gci8jftidp6u9tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjNasFtelp-PhxqqkWstThVWCPcjbGuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996910041863-2s2gv5ugdoorhib27gci8jftidp6u9tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
